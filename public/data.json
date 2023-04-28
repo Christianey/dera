@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "Things fall apart",
+    "author": "Chinua Achebe",
+    "date": 1958,
+    "genre": "Fiction"
+  },
+  {
+    "id": 2,
+    "title": "Fairy tales",
+    "author": "Hans Christian Andersen",
+    "date": 1958,
+    "genre": "Sci-fi"
+  },
+  {
+    "id": 3,
+    "title": "Stranger Things",
+    "author": "Dante Alighieri",
+    "date": 1315,
+    "genre": "Fiction"
+  },
+  {
+    "id": 4,
+    "title": "The Epic Of Gilgamesh",
+    "author": "Unknown",
+    "date": 1351,
+    "genre": "Fiction"
+  },
+  {
+    "id": 5,
+    "title": "The Book Of Job",
+    "author": "Unknown",
+    "date": 1321,
+    "genre": "Fiction"
+  },
+  {
+    "id": 6,
+    "title": "One Thousand and One Nights",
+    "author": "Marguerite Yourcenar",
+    "date": 1841,
+    "genre": "Fiction"
+  },
+  {
+    "id": 7,
+    "title": "Pride and Prejudice",
+    "author": "Salman Rushdie",
+    "date": 1887,
+    "genre": "Fiction"
+  },
+  {
+    "id": 8,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "author": "Rumi",
+    "date": 1339,
+    "genre": "Fiction"
+  },
+  {
+    "id": 9,
+    "title": "The Decameron",
+    "author": "Juan Rulfo",
+    "date": 1981,
+    "genre": "Fiction"
+  },
+  {
+    "id": 10,
+    "title": "Ficciones",
+    "author": "Marcel Proust",
+    "date": 1213,
+    "genre": "Fiction"
+  },
+  {
+    "id": 11,
+    "title": "Wuthering Heights",
+    "author": "Edgar Allan Poe",
+    "date": 1983,
+    "genre": "Fiction"
+  },
+  {
+    "id": 12,
+    "title": "The Stranger",
+    "author": "Fernando Pessoa",
+    "date": 1311,
+    "genre": "Fiction"
+  },
+  {
+    "id": 13,
+    "title": "Poems",
+    "author": "Roman Empire",
+    "date": 1762,
+    "genre": "Fiction"
+  },
+  {
+    "id": 14,
+    "title": "Journey to the End of the Night",
+    "author": "George Orwell",
+    "date": 1345,
+    "genre": "Fiction"
+  },
+  {
+    "id": 15,
+    "title": "Journey of Life",
+    "author": "Robert Musil",
+    "date": 1325,
+    "genre": "Fiction"
+  },
+  {
+    "id": 16,
+    "title": "The Canterbury Tales",
+    "author": "Murasaki Shikibu",
+    "date": 2313,
+    "genre": "Fiction"
+  },
+  {
+    "id": 17,
+    "title": "Nostromo",
+    "author": "Michel de Montaigne",
+    "date": 1183,
+    "genre": "Fiction"
+  },
+  {
+    "id": 18,
+    "title": "Great Expectations",
+    "author": "Herman Melville",
+    "date": 1883,
+    "genre": "Fiction"
+  },
+  {
+    "id": 19,
+    "title": "The Possessed",
+    "author": "Thomas Mann",
+    "date": 1378,
+    "genre": "Fiction"
+  },
+  {
+    "id": 20,
+    "title": "The Brothers Karamazov",
+    "author": "Naguib Mahfouz",
+    "date": 1521,
+    "genre": "Fiction"
+  },
+  {
+    "id": 21,
+    "title": "The Idiot",
+    "author": "Lu Xun",
+    "date": 1775,
+    "genre": "Fiction"
+  },
+  {
+    "id": 22,
+    "title": "Middlemarch",
+    "author": "Astrid Lindgren",
+    "date": 1329,
+    "genre": "Fiction"
+  },
+  {
+    "id": 23,
+    "title": "Absalom, Absalom!",
+    "author": "Doris Lessing",
+    "date": 1923,
+    "genre": "Fiction"
+  },
+  {
+    "id": 24,
+    "title": "The Sound and the Fury",
+    "author": "Giacomo Leopardi",
+    "date": 1322,
+    "genre": "Fiction"
+  },
+  {
+    "id": 25,
+    "title": "Madame Bovary",
+    "author": "D. H. Lawrence",
+    "date": 1325,
+    "genre": "Fiction"
+  },
+  {
+    "id": 26,
+    "title": "Evolving",
+    "author": "Franz Kafka",
+    "date": 1283,
+    "genre": "Fiction"
+  },
+  {
+    "id": 27,
+    "title": "Gypsy Ballads",
+    "author": "James Joyce",
+    "date": 1344,
+    "genre": "Fiction"
+  },
+  {
+    "id": 28,
+    "title": "Love in the Time of Cholera",
+    "author": "Homer",
+    "date": 1872,
+    "genre": "Fiction"
+  },
+  {
+    "id": 29,
+    "title": "Dead Souls",
+    "author": "Ernest Hemingway",
+    "date": 1314,
+    "genre": "Sci-fi"
+  },
+  {
+    "id": 30,
+    "title": "The Devil to Pay in the Backlands",
+    "author": "Knut Hamsun",
+    "date": 1359,
+    "genre": "Fiction"
+  }
+]
